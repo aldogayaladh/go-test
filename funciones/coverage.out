@@ -1,0 +1,5 @@
+mode: set
+go-test/funciones/funciones.go:9.25,11.2 1 1
+go-test/funciones/funciones.go:13.38,14.11 1 1
+go-test/funciones/funciones.go:14.11,16.3 1 1
+go-test/funciones/funciones.go:17.2,17.19 1 1
